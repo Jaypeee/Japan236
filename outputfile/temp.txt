@@ -1,0 +1,5 @@
+DataProvider;Casnum;Code;[ID-NUM2];[ID-NUM3];[CHEM-SYN-LONG];Eff_date;Code3;[ID-NUM4]
+3C004-676-90A;60-34-4;;;Methylhydrazine;1994/06/06;Appendix2;15
+4C004-712-65A;64-67-5;;;Diethyl sulfate;1994/06/06;Appendix2;17
+5C005-011-71A;66-27-3;7463;2-(6)-1378;Methyl methanesulfonate;1997/01/06;Appendix1;12
+6C009-957-26A;72-48-0;;;1,2-Dihydroxy-9,10-anthraquinone;2017/11/21;Appendix2;6

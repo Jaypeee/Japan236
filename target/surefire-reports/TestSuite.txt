@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.566 s <<< FAILURE! - in TestSuite
+ToolsQA.ChinaTest.getdata123  Time elapsed: 2.683 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 94.0.4606.71 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JAY', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00C2C013+2474003]
+	Ordinal0 [0x00BC29C1+2042305]
+	Ordinal0 [0x00AD2F68+1060712]
+	Ordinal0 [0x00AF188E+1185934]
+	Ordinal0 [0x00AED600+1168896]
+	Ordinal0 [0x00AEAA83+1157763]
+	Ordinal0 [0x00B1A2A2+1352354]
+	Ordinal0 [0x00B18FAA+1347498]
+	Ordinal0 [0x00B166DB+1337051]
+	Ordinal0 [0x00AF3427+1192999]
+	Ordinal0 [0x00AF42EE+1196782]
+	Ordinal0 [0x00AF4279+1196665]
+	GetHandleVerifier [0x00DB96FC+1590332]
+	GetHandleVerifier [0x00E68614+2306900]
+	GetHandleVerifier [0x00CB9E93+543699]
+	GetHandleVerifier [0x00CB92CE+540686]
+	Ordinal0 [0x00BC86BA+2066106]
+	Ordinal0 [0x00BCD1C8+2085320]
+	Ordinal0 [0x00BCD308+2085640]
+	Ordinal0 [0x00BD67F3+2123763]
+	BaseThreadInitThunk [0x77048494+36]
+	RtlAreBitsSet [0x772641C8+136]
+	RtlAreBitsSet [0x77264198+88]
+
+	at ToolsQA.ChinaTest.getdata123(ChinaTest.java:20)
+
